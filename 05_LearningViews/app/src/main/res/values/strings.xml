@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">05_LearningViews</string>
+    <string name="greeting">Hello. This is Joyce.</string>
+</resources>
